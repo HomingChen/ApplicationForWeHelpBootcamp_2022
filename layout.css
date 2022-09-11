@@ -13,14 +13,12 @@
 .item{
     background-color: #E0EDC5;
     width: 5%;
-    font-size: 1.2rem;
     justify-content: center;
     align-items: center;
 }
 .item_q{
     background-color: #E0EDC5;
     width: 95%;
-    font-size: 1.2rem;
 }
 .item_a{
     background-color: #F1F7EE;
